@@ -12,11 +12,15 @@
     </a>
   </div>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=chkatsaros&color=blueviolet&style=for-the-badge" alt=""/>
+    <a href="https://github.com/chkatsaros/">
+      <img src="https://komarev.com/ghpvc/?username=chkatsaros&color=blueviolet&style=for-the-badge" alt=""/>
+    </a>
   </div>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-
-### Hi there 👋
 
 <!--
 **chkatsaros/chkatsaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
