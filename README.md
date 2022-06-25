@@ -31,8 +31,6 @@
   </h1>
 </div>
 
----
-
 <div id="banner-gif" align="center">
   <div id="player"></div>
   <script src="asciinema-player.min.js"></script>
