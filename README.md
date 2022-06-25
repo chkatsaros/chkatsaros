@@ -37,7 +37,7 @@
 
 - :seedling: Eager to learn, explore and contribute to amazing ideas :rocket:
 
-- :zap: In my free time, I'm working on personal projects :keyboard:, I'm playing music :microphone: and I'm fighting monsters in D&D :dagger:
+- :zap: In my free time, I'm working on personal projects :keyboard:, playing music :microphone: and slaying monsters in D&D :dagger:
 
 - :mailbox: Reach me at my [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:chris.d.katsaros@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chkatsaros/) account!
 
