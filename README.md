@@ -29,6 +29,6 @@
 
 ---
 
+[![asciicast](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy.svg)](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy)
 <div id="banner-gif" align="center">
-  [![asciicast](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy.svg)](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy)
 </div>
