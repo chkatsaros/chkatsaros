@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
+</head>
+<body>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
   <div id="badges">
@@ -29,6 +33,15 @@
 
 ---
 
-[![asciicast](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy.svg)](https://asciinema.org/a/t8MU3IS4CvXDymQbZcwzusZIy)
 <div id="banner-gif" align="center">
+  <div id="player"></div>
+  <script src="asciinema-player.min.js"></script>
+  <script>
+    AsciinemaPlayer.create(
+      'gitgif.cast',
+      document.getElementById('player'),
+      { cols: 120, rows: 30 }
+    );
+  </script>
 </div>
+</body>
