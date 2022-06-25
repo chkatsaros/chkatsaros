@@ -35,13 +35,13 @@
 
 ### :ghost: About Me :
 
-- :telescope: I’m currently working as a Front End Developer at [EXUS](https://www.exus.co.uk/).
+- :telescope: I’m currently working as a Front End Developer at [EXUS](https://www.exus.co.uk/)
 
-- :seedling: Eager to learn, explore and contribute to amazing ideas :rocket:.
+- :seedling: Eager to learn, explore and contribute to amazing ideas :rocket:
 
-- :zap: In my free time, I'm working on personal projects :laptop:, I'm playing music :microphone: and I'm fighting monsters in D&D :sword:.
+- :zap: In my free time, I'm working on personal projects :keyboard:, I'm playing music :microphone: and I'm fighting monsters in D&D :dagger:
 
-- :mailbox: Reach me at my [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chkatsaros/) or [![Linkedin Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.d.katsaros@gmail.com).
+- :mailbox: Reach me at my [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:chris.d.katsaros@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chkatsaros/) account!
 
 ---
 
