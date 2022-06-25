@@ -33,7 +33,7 @@
 
 ### :ghost: About Me :
 
-- :telescope: I’m currently working as a Front End Developer at [EXUS](https://www.exus.co.uk/)
+- :telescope: I’m currently working as a Front End Developer at [[exus-ltd](https://github.com/exus-ltd)](https://github.com/exus-ltd)
 
 - :seedling: Eager to learn, explore and contribute to amazing ideas :rocket:
 
