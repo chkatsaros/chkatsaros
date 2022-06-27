@@ -33,7 +33,7 @@
 
 ### :ghost: About Me :
 
-I'm Software Engineer from Greece
+I'm a Software Engineer from Greece
 
 - :telescope: I’m currently working as a Front End Developer at [exus-ltd](https://github.com/exus-ltd)
 
