@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
 </head>
 <body> -->
-<div id="header" style="display: flex; align-items: center; justify-content: center;">
+<div id="header" style="display: flex; align-items: center; justify-content: center; width: 100%;">
   <div id="coffee" style="display: flex; flex-flow: column; justify-content: center;">
     <div>
       <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
