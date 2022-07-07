@@ -2,8 +2,8 @@
   <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
 </head>
 <body> -->
-<div id="header" align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: flex; flex-flow: column; justify-content: center; margin-right: 2rem;">
+<div id="header" style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; flex-flow: column; justify-content: center;">
     <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
     <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank" style="margin-left: 1rem">
         <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
