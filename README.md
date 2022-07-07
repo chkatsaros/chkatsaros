@@ -1,17 +1,13 @@
-<!-- <head>
-  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
-</head>
-<body> -->
-<div id="header" style="display: flex; align-items: center; justify-content: center; width: 100%;">
-  <div id="coffee" style="display: flex; flex-flow: column; justify-content: center;">
+<div id="header">
+  <div id="coffee" align="left" valign="top">
     <div>
       <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
     </div>
-    <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank" style="margin-left: 1rem">
-        <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-      </a> 
+    <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank">
+      <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" >
+    </a> 
   </div>
-  <div id="badges" style="display: flex; flex-flow: column; justify-content: center;">
+  <div id="badges" align="right" valign="top">
     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=shades-of-purple" />
     </div>
@@ -30,7 +26,7 @@
       </a>
     </div>
   </div>
-</div>
+ </div> 
 
 ---
 
