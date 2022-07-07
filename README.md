@@ -1,5 +1,5 @@
 <div id="header">
-  <div id="coffee" align="left" valign="top">
+  <div id="coffee" valign="top">
     <div>
       <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
     </div>
@@ -7,7 +7,7 @@
       <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" >
     </a> 
   </div>
-  <div id="badges" align="right" valign="top">
+  <div id="badges" valign="top">
     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=shades-of-purple" />
     </div>
