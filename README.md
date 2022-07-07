@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
 </head>
 <body> -->
-<div id="header" style="display: flex; align-items: center; justify-content: center;">
+<div id="header" align="center" style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-flow: column; justify-content: center; margin-right: 2rem;">
     <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
     <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank" style="margin-left: 1rem">
