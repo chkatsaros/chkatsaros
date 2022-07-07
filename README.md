@@ -1,31 +1,39 @@
-<div id="header">
-  <div id="coffee" align="left" valign="top">
-    <div>
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
-    </div>
-    <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank">
-      <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" >
-    </a> 
-  </div>
-  <div id="badges" align="right" valign="top">
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=shades-of-purple" />
-    </div>
-    <div>
-      <a href="mailto:chris.d.katsaros@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
-      </a>
-      <a href="https://www.linkedin.com/in/chkatsaros/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.instagram.com/ch_spark/">
-        <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a>
-      <a href="https://github.com/chkatsaros/">
-        <img src="https://komarev.com/ghpvc/?username=chkatsaros&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-      </a>
-    </div>
-  </div>
+<div id="header" align="center">
+  <table>
+    <tr>
+      <td>
+        <div id="coffee" align="center">
+          <div>
+            <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Laptop"/>
+          </div>
+          <a href="https://www.buymeacoffee.com/chkatsaros" target="_blank">
+            <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" >
+          </a> 
+        </div>
+      </td>
+      <td>
+        <div id="badges" align="center">
+          <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=shades-of-purple" />
+          </div>
+          <div>
+            <a href="mailto:chris.d.katsaros@gmail.com">
+              <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+            </a>
+            <a href="https://www.linkedin.com/in/chkatsaros/">
+              <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+            <a href="https://www.instagram.com/ch_spark/">
+              <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+            </a>
+            <a href="https://github.com/chkatsaros/">
+              <img src="https://komarev.com/ghpvc/?username=chkatsaros&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+            </a>
+          </div>
+        </div>
+      </td>
+    </tr>
+    </table>
  </div> 
 
 ---
