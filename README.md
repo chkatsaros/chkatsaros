@@ -14,7 +14,7 @@
       <td>
         <div id="badges" align="center">
           <a href="https://github.com/chkatsaros/">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=shades-of-purple" />
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=chkatsaros&theme=tokyonight" />
           </a>
           <div>
             <a href="mailto:chris.d.katsaros@gmail.com">
