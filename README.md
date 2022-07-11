@@ -40,7 +40,7 @@
 
 ### :ghost: About Me :
 
-Heyo there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"/> \
+Heyo there! <img src="https://media.giphy.com/media/INWvHtY18ElyvtEdS2/giphy.gif" width="30"/> \
 I'm Chris, a Software Engineer from Greece
 
 - :telescope: I’m currently working as a Front End Developer at [exus-ltd](https://github.com/exus-ltd)
