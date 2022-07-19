@@ -78,16 +78,6 @@ I'm Chris, a Software Engineer from Greece
 </div>
 
 ---
-
-<!-- <div id="banner-gif" align="center">
-  <div id="player"></div>
-  <script src="asciinema-player.min.js"></script>
-  <script>
-    AsciinemaPlayer.create(
-      'gitgif.cast',
-      document.getElementById('player'),
-      { cols: 120, rows: 30 }
-    );
-  </script>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chkatsaros&column=-1&theme=onedark" alt="GitHub Trophies"/>
 </div>
-</body> -->
