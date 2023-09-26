@@ -43,7 +43,7 @@
 Heyo there! <img src="https://media.giphy.com/media/INWvHtY18ElyvtEdS2/giphy.gif" width="30"/> \
 I'm [Chris](https://www.chkatsaros.com), a Software Engineer from Greece
 
-- :telescope: I’m currently working as a Front End Developer at [exus-ltd](https://github.com/exus-ltd)
+- :telescope: I’m currently working as a Software Engineer at [exus-ltd](https://github.com/exus-ltd)
 
 - :seedling: Eager to learn, explore and contribute to amazing ideas :rocket:
 
